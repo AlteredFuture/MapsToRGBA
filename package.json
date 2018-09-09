@@ -1,9 +1,16 @@
 {
-  "name": "MapsToRGBA",
-  "version": "0.0.1",
-  "description": "Maps to an RGBA file and back.",
-  "main": "index.js",
-  "repository": "https://github.com/AlteredFuture/MapsToRGBA.git",
-  "author": "Luke",
-  "license": "MIT"
+  "name": "maps_to_rgba",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "react-scripts": "1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
 }
