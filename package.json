@@ -1,0 +1,9 @@
+{
+  "name": "MapsToRGBA",
+  "version": "0.0.1",
+  "description": "Maps to an RGBA file and back.",
+  "main": "index.js",
+  "repository": "https://github.com/AlteredFuture/MapsToRGBA.git",
+  "author": "Luke",
+  "license": "MIT"
+}
